@@ -2,7 +2,6 @@
 
 A simple desktop application built using **Python (Tkinter)** and **MySQL** to manage student records efficiently.
 
----
 
 ## 📌 Features
 
@@ -12,7 +11,6 @@ A simple desktop application built using **Python (Tkinter)** and **MySQL** to m
 - 📋 View all students  
 - ❌ Delete student records  
 
----
 
 ## 🛠️ Technologies Used
 
@@ -21,10 +19,4 @@ A simple desktop application built using **Python (Tkinter)** and **MySQL** to m
 - MySQL  
 - PyMySQL  
 
----
 
-## ⚙️ Setup Instructions
-
-### 1. Clone Repository
-```bash
-git clone https://github.com/your-username/your-repo-name.git
